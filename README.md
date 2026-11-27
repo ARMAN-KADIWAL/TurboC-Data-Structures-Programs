@@ -12,26 +12,26 @@ A collection of 20 C programs prepared for a college Turbo C / Turbo C++ environ
 
 | File | Program |
 |---|---|
-| PR1.c | Linear Search |
-| PR2.c | Binary Search |
-| PR3.c | Bubble Sort |
-| PR4.c | Quick Sort |
-| PR5.c | Selection Sort |
-| PR6.c | Insertion Sort |
-| PR7.c | Shell Sort |
-| PR8.c | Merge Sort |
-| PR9.c | Radix Sort |
-| PR10.c | Stack Operations |
-| PR11.c | Infix to Postfix Conversion |
-| PR12.c | Postfix Expression Evaluation |
-| PR13.c | Linear Queue Operations |
-| PR14.c | Double Ended Queue (Deque) |
-| PR15.c | Circular Queue Operations |
-| PR16.c | Singly Linked List Operations |
-| PR17.c | Doubly Linked List Operations |
-| PR18.c | Sorted Singly Linked List |
-| PR19.c | Binary Search Tree Operations |
-| PR20.c | Graph Traversal using BFS and DFS |
+| [PR1.c](TurboC_Programs/PR1.c) | Linear Search |
+| [PR2.c](TurboC_Programs/PR2.c) | Binary Search |
+| [PR3.c](TurboC_Programs/PR3.c) | Bubble Sort |
+| [PR4.c](TurboC_Programs/PR4.c) | Quick Sort |
+| [PR5.c](TurboC_Programs/PR5.c) | Selection Sort |
+| [PR6.c](TurboC_Programs/PR6.c) | Insertion Sort |
+| [PR7.c](TurboC_Programs/PR7.c) | Shell Sort |
+| [PR8.c](TurboC_Programs/PR8.c) | Merge Sort |
+| [PR9.c](TurboC_Programs/PR9.c) | Radix Sort |
+| [PR10.c](TurboC_Programs/PR10.c) | Stack Operations |
+| [PR11.c](TurboC_Programs/PR11.c) | Infix to Postfix Conversion |
+| [PR12.c](TurboC_Programs/PR12.c) | Postfix Expression Evaluation |
+| [PR13.c](TurboC_Programs/PR13.c) | Linear Queue Operations |
+| [PR14.c](TurboC_Programs/PR14.c) | Double Ended Queue (Deque) |
+| [PR15.c](TurboC_Programs/PR15.c) | Circular Queue Operations |
+| [PR16.c](TurboC_Programs/PR16.c) | Singly Linked List Operations |
+| [PR17.c](TurboC_Programs/PR17.c) | Doubly Linked List Operations |
+| [PR18.c](TurboC_Programs/PR18.c) | Sorted Singly Linked List |
+| [PR19.c](TurboC_Programs/PR19.c) | Binary Search Tree Operations |
+| [PR20.c](TurboC_Programs/PR20.c) | Graph Traversal using BFS and DFS |
 
 
 ## Explore by topic
